@@ -1,0 +1,200 @@
+[08-Jun-2021 13:03:25 UTC] PHP Warning:  mysqli_set_charset(): MySQL server has gone away in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php on line 792
+[08-Jun-2021 13:03:25 UTC] PHP Warning:  mysqli_set_charset(): MySQL server has gone away in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php on line 792
+[08-Jun-2021 13:03:25 UTC] PHP Warning:  mysqli_set_charset(): MySQL server has gone away in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php on line 792
+[08-Jun-2021 13:03:25 UTC] PHP Stack trace:
+[08-Jun-2021 13:03:25 UTC] PHP Stack trace:
+[08-Jun-2021 13:03:25 UTC] PHP Stack trace:
+[08-Jun-2021 13:03:25 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[08-Jun-2021 13:03:25 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[08-Jun-2021 13:03:25 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[08-Jun-2021 13:03:25 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[08-Jun-2021 13:03:25 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[08-Jun-2021 13:03:25 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[08-Jun-2021 13:03:25 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[08-Jun-2021 13:03:25 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[08-Jun-2021 13:03:25 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[08-Jun-2021 13:03:25 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[08-Jun-2021 13:03:25 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[08-Jun-2021 13:03:25 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[08-Jun-2021 13:03:25 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[08-Jun-2021 13:03:25 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[08-Jun-2021 13:03:25 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[08-Jun-2021 13:03:25 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[08-Jun-2021 13:03:25 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[08-Jun-2021 13:03:25 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[08-Jun-2021 13:03:25 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[08-Jun-2021 13:03:25 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[08-Jun-2021 13:03:25 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[08-Jun-2021 13:03:25 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[08-Jun-2021 13:03:25 UTC] PHP   9. require_wp_db() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-settings.php:124
+[08-Jun-2021 13:03:25 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[08-Jun-2021 13:03:25 UTC] PHP   9. require_wp_db() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-settings.php:124
+[08-Jun-2021 13:03:25 UTC] PHP  10. wpdb->__construct() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:545
+[08-Jun-2021 13:03:25 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[08-Jun-2021 13:03:25 UTC] PHP  10. wpdb->__construct() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:545
+[08-Jun-2021 13:03:25 UTC] PHP  11. wpdb->db_connect() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:632
+[08-Jun-2021 13:03:25 UTC] PHP   9. require_wp_db() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-settings.php:124
+[08-Jun-2021 13:03:25 UTC] PHP  11. wpdb->db_connect() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:632
+[08-Jun-2021 13:03:25 UTC] PHP  12. wpdb->set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:1732
+[08-Jun-2021 13:03:25 UTC] PHP  10. wpdb->__construct() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:545
+[08-Jun-2021 13:03:25 UTC] PHP  12. wpdb->set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:1732
+[08-Jun-2021 13:03:25 UTC] PHP  13. mysqli_set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:792
+[08-Jun-2021 13:03:25 UTC] PHP  13. mysqli_set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:792
+[08-Jun-2021 13:03:25 UTC] PHP Warning:  mysqli_set_charset(): Error reading result set's header in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php on line 792
+[08-Jun-2021 13:03:25 UTC] PHP  11. wpdb->db_connect() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:632
+[08-Jun-2021 13:03:25 UTC] PHP Warning:  mysqli_set_charset(): Error reading result set's header in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php on line 792
+[08-Jun-2021 13:03:25 UTC] PHP Stack trace:
+[08-Jun-2021 13:03:25 UTC] PHP  12. wpdb->set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:1732
+[08-Jun-2021 13:03:25 UTC] PHP Stack trace:
+[08-Jun-2021 13:03:25 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[08-Jun-2021 13:03:25 UTC] PHP  13. mysqli_set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:792
+[08-Jun-2021 13:03:25 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[08-Jun-2021 13:03:25 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[08-Jun-2021 13:03:25 UTC] PHP Warning:  mysqli_set_charset(): Error reading result set's header in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php on line 792
+[08-Jun-2021 13:03:25 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[08-Jun-2021 13:03:25 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[08-Jun-2021 13:03:25 UTC] PHP Stack trace:
+[08-Jun-2021 13:03:25 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[08-Jun-2021 13:03:25 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[08-Jun-2021 13:03:25 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[08-Jun-2021 13:03:25 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[08-Jun-2021 13:03:25 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[08-Jun-2021 13:03:25 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[08-Jun-2021 13:03:25 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[08-Jun-2021 13:03:25 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[08-Jun-2021 13:03:25 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[08-Jun-2021 13:03:25 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[08-Jun-2021 13:03:25 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[08-Jun-2021 13:03:25 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[08-Jun-2021 13:03:25 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[08-Jun-2021 13:03:25 UTC] PHP   9. require_wp_db() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-settings.php:124
+[08-Jun-2021 13:03:25 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[08-Jun-2021 13:03:25 UTC] PHP  10. wpdb->__construct() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:545
+[08-Jun-2021 13:03:25 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[08-Jun-2021 13:03:25 UTC] PHP  11. wpdb->db_connect() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:632
+[08-Jun-2021 13:03:25 UTC] PHP   9. require_wp_db() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-settings.php:124
+[08-Jun-2021 13:03:25 UTC] PHP  12. wpdb->set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:1732
+[08-Jun-2021 13:03:25 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[08-Jun-2021 13:03:25 UTC] PHP  10. wpdb->__construct() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:545
+[08-Jun-2021 13:03:25 UTC] PHP  13. mysqli_set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:792
+[08-Jun-2021 13:03:25 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[08-Jun-2021 13:03:25 UTC] PHP  11. wpdb->db_connect() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:632
+[08-Jun-2021 13:03:25 UTC] PHP Warning:  mysqli_set_charset(): Error executing query in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php on line 792
+[08-Jun-2021 13:03:25 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[08-Jun-2021 13:03:25 UTC] PHP Stack trace:
+[08-Jun-2021 13:03:25 UTC] PHP  12. wpdb->set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:1732
+[08-Jun-2021 13:03:25 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[08-Jun-2021 13:03:25 UTC] PHP  13. mysqli_set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:792
+[08-Jun-2021 13:03:25 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[08-Jun-2021 13:03:25 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[08-Jun-2021 13:03:25 UTC] PHP Warning:  mysqli_set_charset(): Error executing query in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php on line 792
+[08-Jun-2021 13:03:25 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[08-Jun-2021 13:03:25 UTC] PHP   9. require_wp_db() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-settings.php:124
+[08-Jun-2021 13:03:25 UTC] PHP Stack trace:
+[08-Jun-2021 13:03:25 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[08-Jun-2021 13:03:25 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[08-Jun-2021 13:03:25 UTC] PHP  10. wpdb->__construct() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:545
+[08-Jun-2021 13:03:25 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[08-Jun-2021 13:03:25 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[08-Jun-2021 13:03:25 UTC] PHP  11. wpdb->db_connect() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:632
+[08-Jun-2021 13:03:25 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[08-Jun-2021 13:03:25 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[08-Jun-2021 13:03:25 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[08-Jun-2021 13:03:25 UTC] PHP  12. wpdb->set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:1732
+[08-Jun-2021 13:03:25 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[08-Jun-2021 13:03:25 UTC] PHP   9. require_wp_db() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-settings.php:124
+[08-Jun-2021 13:03:25 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[08-Jun-2021 13:03:25 UTC] PHP  10. wpdb->__construct() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:545
+[08-Jun-2021 13:03:25 UTC] PHP  13. mysqli_set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:792
+[08-Jun-2021 13:03:25 UTC] PHP  11. wpdb->db_connect() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:632
+[08-Jun-2021 13:03:25 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[08-Jun-2021 13:03:25 UTC] PHP  12. wpdb->set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:1732
+[08-Jun-2021 13:03:25 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[08-Jun-2021 13:03:25 UTC] PHP  13. mysqli_set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:792
+[08-Jun-2021 13:03:25 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[08-Jun-2021 13:03:25 UTC] PHP Warning:  mysqli_set_charset(): Error executing query in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php on line 792
+[08-Jun-2021 13:03:25 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[08-Jun-2021 13:03:25 UTC] PHP Stack trace:
+[08-Jun-2021 13:03:25 UTC] PHP   9. require_wp_db() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-settings.php:124
+[08-Jun-2021 13:03:25 UTC] PHP   1. {main}() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:0
+[08-Jun-2021 13:03:25 UTC] PHP  10. wpdb->__construct() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:545
+[08-Jun-2021 13:03:25 UTC] PHP   2. include() C:\Program Files (x86)\Local\resources\extraResources\bin\wp-cli\wp-cli.phar:4
+[08-Jun-2021 13:03:25 UTC] PHP  11. wpdb->db_connect() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:632
+[08-Jun-2021 13:03:25 UTC] PHP   3. include() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[08-Jun-2021 13:03:25 UTC] PHP  12. wpdb->set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:1732
+[08-Jun-2021 13:03:25 UTC] PHP   4. WP_CLI\bootstrap() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[08-Jun-2021 13:03:25 UTC] PHP  13. mysqli_set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:792
+[08-Jun-2021 13:03:25 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[08-Jun-2021 13:03:25 UTC] PHP   6. WP_CLI\Runner->start() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[08-Jun-2021 13:03:25 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[08-Jun-2021 13:03:25 UTC] PHP   8. require() phar://C:/Program Files (x86)/Local/resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[08-Jun-2021 13:03:25 UTC] PHP   9. require_wp_db() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-settings.php:124
+[08-Jun-2021 13:03:25 UTC] PHP  10. wpdb->__construct() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:545
+[08-Jun-2021 13:03:25 UTC] PHP  11. wpdb->db_connect() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:632
+[08-Jun-2021 13:03:25 UTC] PHP  12. wpdb->set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:1732
+[08-Jun-2021 13:03:25 UTC] PHP  13. mysqli_set_charset() C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\wp-db.php:792
+[08-Jun-2021 14:43:03 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\inc\clientes-portfolio.php on line 16
+[08-Jun-2021 14:46:55 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\inc\clientes-portfolio.php on line 20
+[08-Jun-2021 14:48:06 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\inc\clientes-portfolio.php on line 20
+[08-Jun-2021 14:48:11 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\inc\clientes-portfolio.php on line 20
+[08-Jun-2021 14:48:29 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\inc\clientes-portfolio.php on line 20
+[10-Jun-2021 18:35:38 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting '(' in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 14
+[10-Jun-2021 18:37:01 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 15
+[10-Jun-2021 18:37:39 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 15
+[10-Jun-2021 18:39:02 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 15
+[10-Jun-2021 18:45:05 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 18 and at least 2 expected in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\plugin.php:409
+Stack trace:
+#0 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php(18): add_action('')
+#1 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-settings.php(528): include('C:\\Users\\wellf\\...')
+#2 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-config.php(77): require_once('C:\\Users\\wellf\\...')
+#3 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-load.php(37): require_once('C:\\Users\\wellf\\...')
+#4 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\plugin.php on line 409
+[11-Jun-2021 15:20:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\footer.php:35
+Stack trace:
+#0 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\template.php(676): load_template('C:\\Users\\wellf\\...', true, Array)
+#2 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\page-sobre.php(26): get_footer()
+#4 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wellf\\...')
+#5 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-blog-header.php(19): requi in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\footer.php on line 35
+[11-Jun-2021 15:20:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\footer.php:35
+Stack trace:
+#0 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\template.php(730): require_once()
+#1 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\template.php(676): load_template('C:\\Users\\wellf\\...', true, Array)
+#2 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\index.php(13): get_footer()
+#4 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\wellf\\...')
+#5 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-blog-header.php(19): require_on in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\footer.php on line 35
+[14-Jun-2021 14:02:01 UTC] PHP Parse error:  syntax error, unexpected 'remove_action' (T_STRING), expecting '(' in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-content\themes\bikcraft\functions.php on line 6
+[14-Jun-2021 14:13:24 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:1107
+Stack trace:
+#0 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\script-loader.php(2249): is_admin()
+#1 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(292): wp_enqueue_registered_block_scripts_and_styles('')
+#2 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\script-loader.php(2211): do_action('enqueue_block_a...')
+#5 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(292): in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php on line 1107
+[14-Jun-2021 14:13:25 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:1107
+Stack trace:
+#0 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\script-loader.php(2249): is_admin()
+#1 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(292): wp_enqueue_registered_block_scripts_and_styles('')
+#2 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\script-loader.php(2211): do_action('enqueue_block_a...')
+#5 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(292): in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php on line 1107
+[14-Jun-2021 14:14:32 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:1107
+Stack trace:
+#0 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\script-loader.php(2249): is_admin()
+#1 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(292): wp_enqueue_registered_block_scripts_and_styles('')
+#2 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\script-loader.php(2211): do_action('enqueue_block_a...')
+#5 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(292): in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php on line 1107
+[14-Jun-2021 14:14:33 UTC] PHP Fatal error:  Uncaught Error: Maximum function nesting level of '256' reached, aborting! in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php:1107
+Stack trace:
+#0 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\script-loader.php(2249): is_admin()
+#1 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(292): wp_enqueue_registered_block_scripts_and_styles('')
+#2 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#3 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#4 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\script-loader.php(2211): do_action('enqueue_block_a...')
+#5 C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\class-wp-hook.php(292): in C:\Users\wellf\Desktop\Cursos\wordpress-como-cms\sites\bikcraft\app\public\wp-includes\load.php on line 1107
